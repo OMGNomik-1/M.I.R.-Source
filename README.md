@@ -1,6 +1,6 @@
-# my_first_app
+# M.I.R.
 
-A new Flutter project.
+Messenger M.I.R.
 
 ## Getting Started
 
