@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.1.112</domain>
+        <domain includeSubdomains="true">https://mirm.tunyl.com</domain><!-- Ваш IP-адрес ПК -->
+        <domain includeSubdomains="true">http://192.168.1.112:3000</domain>
+        <!-- Для эмулятора -->
+        <domain includeSubdomains="true">https://86ac09b7-e811-4140-a93f-0afeeac19e19.tunnel4.com</domain>
+    </domain-config>
+</network-security-config>
